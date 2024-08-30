@@ -5,7 +5,7 @@ import (
 	"strconv"
 )
 
-func main() {
+func main6() {
 	var n int
 
 	var count int
