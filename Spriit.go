@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main10() {
+func main30() {
 	var classrooms, sprit int
 	fmt.Scan(&classrooms, &sprit)
 	for i := 0; i < classrooms; i++ {
