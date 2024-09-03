@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main7() {
 	var Apple float64
 	var orange float64
 	var Pineapple float64
